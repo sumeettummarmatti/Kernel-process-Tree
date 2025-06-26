@@ -29,9 +29,9 @@ cd your-repo-name
 ```bash
 chmod +x run.sh
 ```
-### 🚀 Running the Project
+## 🚀 Running the Project
 
-## To build everything, run the user program, and print the memory-aware process tree:
+### To build everything, run the user program, and print the memory-aware process tree:
 
 ```bash
 ./run.sh
