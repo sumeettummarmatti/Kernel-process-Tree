@@ -49,7 +49,9 @@ This will:
 
  ### 🧪 Sample Output
 
+```bash
  Memory-Aware Process Tree from PID 14452:
 |- PID: 14452 | Name: user | VM: 1268 KB
   |- PID: 14453 | Name: child1 | VM: 1024 KB
   |- PID: 14454 | Name: child2 | VM: 1040 KB
+```
